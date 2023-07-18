@@ -1,0 +1,30 @@
+#div1{
+    border-style: solid;
+    height: 60px;
+    width: 100px;
+    background-color: aqua;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 15%;
+}
+#div2{
+    border-style: double;
+    height: 60px;
+    width: 100px;
+    background-color: yellow;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 15%;
+}
+#div3{
+    border-style: dotted;
+    height: 60px;
+    width: 100px;
+    background-color: red;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 15%;
+}
