@@ -1,0 +1,8 @@
+div{
+    border-style: solid;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    background-color: lightskyblue;
+}
